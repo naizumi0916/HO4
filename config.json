@@ -1,7 +1,7 @@
 {
-    "course": "CSE40-TODO",
-    "assignment": "HO4",
-    "server": "http://lighthouse.soe.ucsc.edu",
-    "user": "sslug@ucsc.edu",
-    "pass": "1234567890"
+  "course": "cse40-f25-hao",
+  "assignment": "HO4”,
+  "server": "https://lighthouse.soe.ucsc.edu",
+  "user": "naizumi@ucsc.edu",
+  "pass": "7c57508872e8a3208c2bf5e12f6a3006"
 }
